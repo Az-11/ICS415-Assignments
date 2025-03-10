@@ -1,8 +1,11 @@
+package Task2;
 import java.awt.*;
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;
 import javax.swing.*;
+
+
 
 public class RayTracer2 {
     static class Vector {
