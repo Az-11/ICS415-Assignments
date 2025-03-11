@@ -2,7 +2,7 @@
 
 ## Ray Tracing in Java
 
-Welcome to my first HW in ICS415 ( Computer Graphics ). This is simple implementation of a ray tracing algorithm written in Java. This program demonstrates the basics of ray tracing by rendering a 2D image with multiple spheres, showcasing intersections and color blending. The output image is saved as `output.png` in the project directory.
+Welcome to my first project in ICS415 ( Computer Graphics ). This is simple implementation of a ray tracing algorithm written in Java. This program demonstrates the basics of ray tracing by rendering a 2D image with multiple spheres, showcasing intersections and color blending. The output image is saved as `output.png` in the project directory.
 
 ## Features
 - **Ray Tracing Algorithm**: Simulates light rays and sphere intersections.
@@ -20,8 +20,8 @@ To run this program, ensure you have:
 1. Open a terminal or command prompt.
 2. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Az-11/ICS415-Assignment1.git
-   cd ICS415-Assignment1
+   https://github.com/Az-11/ICS415-Assignments.git
+   cd Project1
    ```
 
 ### Compile and Run
@@ -30,7 +30,7 @@ To run this program, ensure you have:
 1. Open Command Prompt or PowerShell.
 2. Navigate to the project folder:
    ```bash
-   cd /path/to/ICS415-Assignment1
+   cd /path/to/ICS415-Assignments
    ```
 3. Compile the program:
    ```bash
@@ -46,7 +46,7 @@ To run this program, ensure you have:
 1. Open a terminal.
 2. Navigate to the project folder:
    ```bash
-   cd /path/to/ICS415-Assignment1
+   cd /path/to/ICS415-Assignments
    ```
 3. Compile the program:
    ```bash
