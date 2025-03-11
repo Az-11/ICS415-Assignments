@@ -336,7 +336,7 @@ public class RayTracer4 {
 
         // Load the Stanford Bunny from an OBJ file.
         // The bunny will be given a light gray color, moderate specular highlight, and some reflectivity.
-        List<Triangle> bunnyTriangles = loadOBJ("models/bunny.obj", Color.LIGHT_GRAY, 10, 0.2);
+        List<Triangle> bunnyTriangles = loadOBJ("Project1/Task4/models/bunny.obj", Color.LIGHT_GRAY, 10, 0.2);
         // Transform the bunny so that it is visible in the scene.
         // Here we scale it by 4 and translate it upward and into the scene.
         transformTriangles(bunnyTriangles, 4, new Vector(0, 1, 5));
