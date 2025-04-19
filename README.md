@@ -19,6 +19,15 @@ This repository contains assignments and projects for the **ICS415** course. The
   - "An Introduction to Shader Art Coding"
   - Shader Tutorial Series
   - Unity Shader Programming Guide
+ 
+### 🔹 Project 3: Minecraft‑like Voxel Engine (Completed ✅)
+- **Objective:** Build a real‑time voxel engine in Java using LWJGL and JOML.  
+- **Implementation:**  
+  - Chunked mesh generation, texture atlas, lighting, camera controls, block placement/destruction with physics‑driven debris.  
+- **Resources:**  
+  - LWJGL 3 documentation  
+  - JOML (Java OpenGL Math Library)  
+  - OpenGL 3.3 Core Profile tutorials  
 
 ## 🛠️ Installation & Usage
 Each project includes a **README** with step-by-step instructions on how to run the code. Follow the instructions in the respective folders to build and execute each project.
@@ -26,13 +35,14 @@ Each project includes a **README** with step-by-step instructions on how to run 
 ## 📁 Repository Structure
 ```
 ICS415-Assignments/
-│-- Project1_RayTracing/   # Ray Tracing implementation in Java
-│-- Project2_Shaders/      # GLSL shader project
-│-- README.md              # Overview of the repository
+│-- Project1/   # Ray Tracing implementation in Java
+│-- Project2/   # GLSL shader project
+|-- project3/   # Rasterization project
+│-- README.md   # Overview of the repository
 ```
 
 ## ⚡ Future Work
-- Rasterization
+
 - Curves
 
 
