@@ -19,10 +19,12 @@ A visual Bézier curve editor with support for:
 
 ## Project Structure
 
+```bash
 Project4/
-├─ Main.java
-├─ BezierSketch.java
-└─ PolyBezierEditor.java
+├── Main.java
+├── BezierSketch.java
+└── PolyBezierEditor.java
+
 
 
 ## Running the Application
