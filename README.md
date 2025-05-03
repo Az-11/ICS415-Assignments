@@ -45,9 +45,12 @@ Each project includes its own **README** with step-by-step instructions.
 
 ## 📁 Repository Structure
 
+```bash
 ICS415-Assignments/
-├─ Project1/ # Ray Tracing (Java)
-├─ Project2/ # Shader Programming (GLSL)
-├─ Project3/ # Voxel Engine (Java + LWJGL)
-├─ Project4/ # Interactive Bézier Curve Editor
-└─ README.md # Overview of the repository
+├── Project1/        # Ray Tracing (Java)
+├── Project2/        # Shader Programming (GLSL)
+├── Project3/        # Voxel Engine (Java + LWJGL)
+├── Project4/        # Interactive Bézier Curve Editor
+└── README.md        # Overview of the repository
+
+
