@@ -24,8 +24,7 @@ Project4/
 ├── Main.java
 ├── BezierSketch.java
 └── PolyBezierEditor.java
-
-
+```
 
 ## Running the Application
 
